@@ -36,8 +36,8 @@ In BarData we store height reference values, labels, priority and other values. 
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | `heightReferenceValues` | Values that you want to show as heights in this chart.                                                                                                                                                 | Map<String, double> |
 | `label` | Name of the value. This will appear bottom of bar.                                                                                                                                                     | String |
-| `labelPriority` | When the chart zooms out some of your bar labels are not able to appear. They appear according to a period. If this period doesn't allow any high priority label to write it, writes above next label. | int |
-| `minValue, maxValue` | Min and max values of heightReferenceValues to define indicator state. They determined in constructor.                                                                                                  |     |
+| `labelPriority` | When the chart zooms out some of your bar labels will not be able to appear. They appear according to a period. If this period doesn't allow any high priority label to write, it writes above next label. | int |
+| `minValue, maxValue` | Min and max values of heightReferenceValues to define indicator state. They are determined in constructor.                                                                                                  |     |
 
 
 ### BarPainter
