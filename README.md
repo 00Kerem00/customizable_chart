@@ -1,6 +1,9 @@
 It's a widget that allows you to design your bars with your own data structures and a lot of details.
 It gives you an chart and rects and draws your bar design in those rects.
 
+https://github.com/00Kerem00/customizable_chart/assets/143900054/0c56bef7-46fd-40a9-84a5-57cd60822e89
+https://github.com/00Kerem00/customizable_chart/assets/143900054/ef36b4fb-8175-4476-9eb3-283b7d8c3b48
+
 ## Before started
 
 You need to have knowledge of CustomPaint to use this.
