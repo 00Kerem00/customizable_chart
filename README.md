@@ -1,12 +1,12 @@
 It's a widget that allows you to design your bars with your own data structures and a lot of details.
 
-![ghi2](https://github.com/00Kerem00/customizable_chart/assets/143900054/66fcb698-e104-4179-98d4-ab32c0379b1e)
-![ghi3](https://github.com/00Kerem00/customizable_chart/assets/143900054/ef36b4fb-8175-4476-9eb3-283b7d8c3b48)
+![ghi2](https://github.com/00Kerem00/customizable_chart/assets/143900054/4c643398-f7e2-4f9c-81ed-1b8a9a70841f)
+![ghi3](https://github.com/00Kerem00/customizable_chart/assets/143900054/87cc568a-e400-4334-babb-4e21c0ba5a1b)
 
 It gives you an chart and rects and draws your bar design in those rects.
 
-![ghi0](https://github.com/00Kerem00/customizable_chart/assets/143900054/9337d6de-0cc7-4c41-9553-a7709256fcea)
-![ghi1](https://github.com/00Kerem00/customizable_chart/assets/143900054/76e71ad5-8e66-4c08-be66-f07fcb4e6134)
+![ghi0](https://github.com/00Kerem00/customizable_chart/assets/143900054/a58d85c9-b5cf-4d8b-8804-0a669dc85a9d)
+![ghi1](https://github.com/00Kerem00/customizable_chart/assets/143900054/80b82725-86bb-46ca-a6b7-ea17720b1f0b)
 
 ## Before started
 
@@ -50,7 +50,7 @@ We design our bars with CustomPainter principles in BarPainter.
 
 ### BarGroupDrawer
 If we want to draw anything without depending on bars, we can add some extras.
-![ghi4](https://github.com/00Kerem00/customizable_chart/assets/143900054/eb8355c8-15fe-4134-bda8-a4a3f7544f65)
+![ghi4](https://github.com/00Kerem00/customizable_chart/assets/143900054/bdb1b2b4-54fc-4ba0-83a3-9ae402ea515d)
 
 | Properties   | Description                                                                  | Type          |
 |--------------|------------------------------------------------------------------------------|---------------|
