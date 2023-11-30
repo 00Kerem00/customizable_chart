@@ -3,7 +3,7 @@ It's a widget that allows you to design your bars with your own data structures 
 ![ghi2](https://github.com/00Kerem00/customizable_chart/assets/143900054/4c643398-f7e2-4f9c-81ed-1b8a9a70841f)
 ![ghi3](https://github.com/00Kerem00/customizable_chart/assets/143900054/87cc568a-e400-4334-babb-4e21c0ba5a1b)
 
-It gives you a chart and rects and draws your bar design in those rects.
+It gives you a chart and rects then draws your bar design in those rects.
 
 ![ghi0](https://github.com/00Kerem00/customizable_chart/assets/143900054/a58d85c9-b5cf-4d8b-8804-0a669dc85a9d)
 ![ghi1](https://github.com/00Kerem00/customizable_chart/assets/143900054/80b82725-86bb-46ca-a6b7-ea17720b1f0b)
